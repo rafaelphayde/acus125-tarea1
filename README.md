@@ -1,4 +1,5 @@
-# ACUS125 Análisis y Aislamiento de Vibraciones: Tarea grupal 1
+# ACUS125 Análisis y Aislamiento de Vibraciones: 
+## Tarea grupal 1
 
 **Instrucciones**
 
